@@ -2,7 +2,8 @@
 
 👤 Autor: Fernando Ríos  
 📚 Asignatura: Introducción a Aplicaciones Móviles  
-📅 Fecha: (aquí pones la fecha)
+📅 Fecha: (02-09-2025)
+👨🏼‍🏫 Docente: Ivan Ayala
 
 ## Introducción
 Este proyecto consiste en compilar y ejecutar un programa en Java desde la terminal, sin usar un IDE. 
